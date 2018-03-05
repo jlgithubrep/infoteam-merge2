@@ -1,0 +1,14 @@
+personne.js
+	toute la route get modification
+	toute la route post modification
+	toute la route get modifmdp
+	toute la route post modifmdp
+
+personneModification.ejs
+	affichage des erreurs
+	id dans l'input mail
+
+personneModifMdp.ejs
+	affichage des erreurs
+	id dans l'input nouveau mail
+	input nouveau mail bis en entier
